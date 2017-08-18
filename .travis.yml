@@ -1,4 +1,5 @@
 language: bash
+sudo: false
 before_script:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.tar.gz
   - tar xvf hugo_0.26_Linux-64bit.tar.gz
@@ -8,6 +9,7 @@ script:
   - ls -l public
 after_script:
   - cd public
+  - echo "www.xjx00.ml" > CNAME
   - git init
   - git config user.name "xjx00"
   - git config user.email "xjxyklwx@126.com"
