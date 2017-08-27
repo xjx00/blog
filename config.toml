@@ -1,13 +1,13 @@
 BaseUrl= "http://www.xjx00.ml/"
 LanguageCode= "zh-CN"
-Title= "我的窝"
+Title= "xjx00的主页"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 
 [params]
-  description = "鼠的窝Beta-2017"
+  description = "欢迎访问我的个人空间"
   cover = "images/user.jpg"
   author = "xjx00"
   authorlocation = ""
