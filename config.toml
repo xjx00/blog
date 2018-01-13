@@ -7,11 +7,11 @@ Copyright = "All rights reserved - 2017"
 canonifyurls = true
 
 [params]
-  description = "欢迎访问WIT电子爱好者协会官网"
+  description = "WIT Electronic Amateur Association"
   cover = "images/cover.jpg"
-  author = "xjx00"
+  author = "witeaaer"
   authorlocation = ""
-  authorwebsite = "http://www.xjx00.ml/"
+  authorwebsite = "http://www.witeaa.tk/"
   bio= "my bio"
   logo = "images/logo.png"
   #googleAnalyticsUserID = ""
