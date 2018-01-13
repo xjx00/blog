@@ -14,10 +14,10 @@ canonifyurls = true
   authorwebsite = "http://www.xjx00.ml/"
   bio= "my bio"
   logo = "images/user.png"
-  googleAnalyticsUserID = ""
+  #googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = ""
-  githubName = "xjx00"
-  twitterName = ""
+  #RSSLink = ""
+  #githubName = "xjx00"
+  #twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
