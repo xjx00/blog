@@ -1,13 +1,13 @@
-BaseUrl= "http://blog.xjx00.ml/"
+BaseUrl= "http://www.witeaa.tk/"
 LanguageCode= "zh-CN"
-Title= "Xjx00's Blog"
+Title= "WIT电子爱好者协会"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 
 [params]
-  description = "欢迎访问我的个人博客"
+  description = "欢迎访问WIT电子爱好者协会官网"
   cover = "images/user.jpg"
   author = "xjx00"
   authorlocation = ""
