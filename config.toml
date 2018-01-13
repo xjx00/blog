@@ -8,7 +8,7 @@ canonifyurls = true
 
 [params]
   description = "欢迎访问WIT电子爱好者协会官网"
-  cover = "images/user.jpg"
+  cover = "images/cover.jpg"
   author = "xjx00"
   authorlocation = ""
   authorwebsite = "http://www.xjx00.ml/"
