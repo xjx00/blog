@@ -4,7 +4,7 @@ before_script:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.26/hugo_0.26_Linux-64bit.tar.gz
   - tar xvf hugo_0.26_Linux-64bit.tar.gz
 script:
-  - ./hugo --theme=hugo-theme-air
+  - ./hugo --theme=hugo-theme-casper
   - ls -l
   - ls -l public
 after_script:
