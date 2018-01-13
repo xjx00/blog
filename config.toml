@@ -5,6 +5,7 @@ paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
+menu = "main"
 
 [params]
   description = "WIT Electronic Amateur Association"
@@ -21,7 +22,6 @@ canonifyurls = true
   #twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
-  menu = "main"
 
 [[menu.main]]
   name = "My Blog"
