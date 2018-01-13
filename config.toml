@@ -5,8 +5,18 @@ paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
-menu = "main"
+[[menu.main]]
+  name = "My Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
 
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+  
 [params]
   description = "WIT Electronic Amateur Association"
   cover = "images/cover.jpg"
@@ -22,15 +32,3 @@ menu = "main"
   #twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
-
-[[Menus.main]]
-  name = "My Blog"
-  weight = -120
-  identifier = "blog"
-  url = "/"
-
-[[Menus.main]]
-  name = "About me"
-  weight = -110
-  identifier = "about"
-  url = "/about"
