@@ -6,16 +6,40 @@ DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 [[menu.main]]
-  name = "My Blog"
+  name = "主页"
   weight = -120
-  identifier = "blog"
+  identifier = "home"
   url = "/"
 
 [[menu.main]]
-  name = "About me"
+  name = "最新动态"
   weight = -110
-  identifier = "about"
-  url = "/about"
+  identifier = "news"
+  url = "/news"
+  
+[[menu.main]]
+  name = "创客DIY"
+  weight = -110
+  identifier = "diy"
+  url = "/diy"
+  
+[[menu.main]]
+  name = "产品发布"
+  weight = -110
+  identifier = "product"
+  url = "/product"
+  
+[[menu.main]]
+  name = "下载中心"
+  weight = -110
+  identifier = "download"
+  url = "/download"
+  
+[[menu.main]]
+  name = "加入我们"
+  weight = -110
+  identifier = "join"
+  url = "/join"
   
 [params]
   description = "WIT Electronic Amateur Association"
