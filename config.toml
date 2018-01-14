@@ -43,7 +43,7 @@ canonifyurls = true
   
 [params]
   description = "WIT Electronic Amateur Association"
-  cover = "images/cover.jpg"
+  cover = "images/back1.jpg"
   author = "witeaaer"
   authorlocation = ""
   authorwebsite = "http://www.witeaa.tk/"
