@@ -8,6 +8,15 @@
     <script type="text/javascript" src="{{"js/jquery.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/jquery.fitvids.js" | relURL}}"></script>
     <script type="text/javascript" src="{{"js/index.js" | relURL}}"></script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?8caa5713a9352036b115d8d165015bed";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+         })();
+    </script>
     {{ if .Site.Params.customFooterPartial }}
         {{ partial .Site.Params.customFooterPartial . }}
     {{ end }}
