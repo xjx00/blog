@@ -5,6 +5,7 @@ paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
+pluralizelisttitles = false
 [[menu.main]]
   name = "主页"
   weight = -120
