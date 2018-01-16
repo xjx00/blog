@@ -6,6 +6,7 @@ DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
 pluralizelisttitles = false
+hasCJKLanguage = true
 [[menu.main]]
   name = "主页"
   weight = -120
