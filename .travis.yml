@@ -9,7 +9,7 @@ script:
   - ls -l public
 after_script:
   - cd public
-  - echo "www.witeaa.tk" > CNAME
+  - echo "witeaa.tk" > CNAME
   - git init
   - git config user.name "xjx00"
   - git config user.email "xjxyklwx@126.com"
