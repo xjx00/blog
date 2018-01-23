@@ -10,37 +10,31 @@ hasCJKLanguage = true
 [[menu.main]]
   name = "加入我们"
   weight = 105
-  identifier = "join"
   url = "/join"
 
 [[menu.main]]
   name = "最新动态"
   weight = 101
-  identifier = "news"
   url = "/news"
   
 [[menu.main]]
   name = "创客DIY"
   weight = 102
-  identifier = "diy"
   url = "/diy"
   
 [[menu.main]]
   name = "产品发布"
   weight = 103
-  identifier = "product"
   url = "/product"
   
 [[menu.main]]
   name = "下载中心"
   weight = 104
-  identifier = "download"
   url = "/download"
  
  [[menu.main]]
   name = "主页"
   weight = 100
-  identifier = "home"
   url = "/"
   
 
