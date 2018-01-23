@@ -10,7 +10,7 @@ hasCJKLanguage = true
 [[menu.main]]
   name = "加入我们"
   weight = 105
-  url = "/join"
+  url = "/"
 
 [[menu.main]]
   name = "最新动态"
