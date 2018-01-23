@@ -8,10 +8,10 @@ canonifyurls = true
 pluralizelisttitles = false
 hasCJKLanguage = true
 [[menu.main]]
-  name = "主页"
-  weight = 100
-  identifier = "home"
-  url = "/"
+  name = "加入我们"
+  weight = 105
+  identifier = "join"
+  url = "/join"
 
 [[menu.main]]
   name = "最新动态"
@@ -36,12 +36,14 @@ hasCJKLanguage = true
   weight = 104
   identifier = "download"
   url = "/download"
+ 
+ [[menu.main]]
+  name = "主页"
+  weight = 100
+  identifier = "home"
+  url = "/"
   
-[[menu.main]]
-  name = "加入我们"
-  weight = 105
-  identifier = "join"
-  url = "/join"
+
   
 [params]
   description = "WIT Electronic Amateur Association"
