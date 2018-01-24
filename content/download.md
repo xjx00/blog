@@ -4,7 +4,6 @@ date = "2018-01-24T19:50:00+00:00"
 draft = false
 noauthor = true
 share = false
-title = "About me"
 type = "page"
 +++
 
