@@ -41,7 +41,7 @@ hasCJKLanguage = true
   
 [params]
   description = "WIT Electronic Amateur Association"
-  cover = "images/{{ .Site.Title }}.jpg"
+  cover = "images/{{ .Section }}"
   author = "witeaaer"
   authorlocation = ""
   authorwebsite = "http://www.witeaa.tk/"
