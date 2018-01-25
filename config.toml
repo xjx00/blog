@@ -41,7 +41,6 @@ hasCJKLanguage = true
   
 [params]
   description = "WIT Electronic Amateur Association"
-  cover = {{ .Section }}
   author = "witeaaer"
   authorlocation = ""
   authorwebsite = "http://www.witeaa.tk/"
