@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on WIT电子爱好者协会</title>
+    <link>http://www.witeaa.tk/post/</link>
+    <description>Recent content in Post on WIT电子爱好者协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Tue, 16 Jan 2018 02:11:24 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.witeaa.tk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HelloWorld!</title>
+      <link>http://www.witeaa.tk/post/1111/</link>
+      <pubDate>Tue, 16 Jan 2018 02:11:24 +0800</pubDate>
+      
+      <guid>http://www.witeaa.tk/post/1111/</guid>
+      <description>welcome everyone，wit电子爱好者协会的官网今天正式上线啦 在这个世上，每时每刻都有新的事物诞生，与之相对，每分每秒也有事物在消逝，我们此刻</description>
+    </item>
+    
+  </channel>
+</rss>

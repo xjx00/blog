@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>下载中心 on WIT电子爱好者协会</title>
+    <link>http://www.witeaa.tk/download/</link>
+    <description>Recent content in 下载中心 on WIT电子爱好者协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Wed, 24 Jan 2018 19:50:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.witeaa.tk/download/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Download下载</title>
+      <link>http://www.witeaa.tk/download/download/</link>
+      <pubDate>Wed, 24 Jan 2018 19:50:00 +0000</pubDate>
+      
+      <guid>http://www.witeaa.tk/download/download/</guid>
+      <description>常用软件 Altium Designer16 | Download Keil_C51 | Download Keil MDK-ARM 5.10 uVision5 | Download IAR | Download STC-isp 包含USB转串口驱动CH340/CH341和PL2303 | Download 驱动 J-Link v486b windows7/10 库 山外K60参考代码V5.3</description>
+    </item>
+    
+  </channel>
+</rss>
