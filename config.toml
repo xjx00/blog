@@ -8,24 +8,19 @@ canonifyurls = true
 pluralizelisttitles = false
 hasCJKLanguage = true
 [[menu.main]]
-  name = "AboutUs"
-  weight = 105
-  url = "/about"
-
-[[menu.main]]
   name = "最新动态"
   weight = 101
   url = "/news"
   
 [[menu.main]]
-  name = "创客DIY"
+  name = "Ideas"
   weight = 102
   url = "/diy"
   
 [[menu.main]]
-  name = "产品发布"
+  name = "展示区"
   weight = 103
-  url = "/product"
+  url = "/show"
   
 [[menu.main]]
   name = "下载中心"
@@ -36,6 +31,11 @@ hasCJKLanguage = true
   name = "主页"
   weight = 100
   url = "/"
+  
+  [[menu.main]]
+  name = "AboutUs"
+  weight = 105
+  url = "/about"
   
 
   
