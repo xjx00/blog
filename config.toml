@@ -9,32 +9,32 @@ pluralizelisttitles = false
 hasCJKLanguage = true
 [[menu.main]]
   name = "最新动态"
-  weight = -100
+  weight = 100
   url = "/news"
   
 [[menu.main]]
   name = "Ideas"
-  weight = -90
+  weight = 90
   url = "/diy"
   
 [[menu.main]]
   name = "展示区"
-  weight = -80
+  weight = 80
   url = "/show"
   
 [[menu.main]]
   name = "下载中心"
-  weight = -70
+  weight = 70
   url = "/download"
  
  [[menu.main]]
   name = "主页"
-  weight = -110
+  weight = 110
   url = "/"
   
   [[menu.main]]
   name = "AboutUs"
-  weight = -60
+  weight = 60
   url = "/about"
   
 
