@@ -8,7 +8,7 @@ canonifyurls = true
 pluralizelisttitles = false
 hasCJKLanguage = true
 [[menu.main]]
-  name = "最新动态"
+  name = "A最新动态"
   weight = 101
   url = "/news"
   
@@ -33,7 +33,7 @@ hasCJKLanguage = true
   url = "/"
   
   [[menu.main]]
-  name = "AboutUs"
+  name = "ZAboutUs"
   weight = 105
   url = "/about"
   
