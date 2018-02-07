@@ -1,4 +1,4 @@
 +++
 title = "最新动态"
-cover = "/images/newyear.jpg"
+cover = "http://witeaa-1252834524.file.myqcloud.com/images/newyear.jpg"
 +++
