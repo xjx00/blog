@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on WIT电子爱好者协会</title>
+    <link>https://witeaa.tk/post/</link>
+    <description>Recent content in Post on WIT电子爱好者协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Fri, 09 Feb 2018 19:06:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://witeaa.tk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>百度云的“链接不存在或失效”怎么破?</title>
+      <link>https://witeaa.tk/post/4444/</link>
+      <pubDate>Fri, 09 Feb 2018 19:06:24 +0800</pubDate>
+      
+      <guid>https://witeaa.tk/post/4444/</guid>
+      <description>相信大家不管是领取干货资料还是通过百度云发送文档给伙伴，都会碰到以下问题： 你打开的文件已失效； 啊哦，你来晚了，分享的文件已经被取消了，下次要</description>
+    </item>
+    
+    <item>
+      <title>如何用ｐｓ制作海报中的水波纹倒影的效果</title>
+      <link>https://witeaa.tk/post/2222/</link>
+      <pubDate>Wed, 07 Feb 2018 19:06:24 +0800</pubDate>
+      
+      <guid>https://witeaa.tk/post/2222/</guid>
+      <description>分两层看待：第一层是物体的倒影，第二层是水波的反光。 第一层比较简单，将毛笔垂直反转，挪到下方，使用滤镜—扭曲—波浪。参数自己视情况调整。 海报</description>
+    </item>
+    
+    <item>
+      <title>最蠢密码排行榜 看看你的密码在不在上面</title>
+      <link>https://witeaa.tk/post/3333/</link>
+      <pubDate>Tue, 06 Feb 2018 10:38:24 +0800</pubDate>
+      
+      <guid>https://witeaa.tk/post/3333/</guid>
+      <description>很多人为了省事、好记，会把密码设置的非常简单，甚至有些心大的人更是把所有平台账号密码都设置成一样的， 但是殊不知，那些安全性低的密码，可轻松被</description>
+    </item>
+    
+    <item>
+      <title>HelloWorld!</title>
+      <link>https://witeaa.tk/post/1111/</link>
+      <pubDate>Tue, 16 Jan 2018 02:11:24 +0800</pubDate>
+      
+      <guid>https://witeaa.tk/post/1111/</guid>
+      <description>welcome everyone，wit电子爱好者协会的官网今天正式上线啦 在这个世上，每时每刻都有新的事物诞生，与之相对，每分每秒也有事物在消逝，我们此刻</description>
+    </item>
+    
+  </channel>
+</rss>

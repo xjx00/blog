@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最新动态 on WIT电子爱好者协会</title>
+    <link>https://witeaa.tk/news/</link>
+    <description>Recent content in 最新动态 on WIT电子爱好者协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Fri, 09 Feb 2018 19:06:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://witeaa.tk/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>百度云的“链接不存在或失效”怎么破?</title>
+      <link>https://witeaa.tk/news/%E7%99%BE%E5%BA%A6%E4%BA%91%E7%9A%84-%E9%93%BE%E6%8E%A5%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%88%96%E5%A4%B1%E6%95%88-%E6%80%8E%E4%B9%88%E7%A0%B4/</link>
+      <pubDate>Fri, 09 Feb 2018 19:06:24 +0800</pubDate>
+      
+      <guid>https://witeaa.tk/news/%E7%99%BE%E5%BA%A6%E4%BA%91%E7%9A%84-%E9%93%BE%E6%8E%A5%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%88%96%E5%A4%B1%E6%95%88-%E6%80%8E%E4%B9%88%E7%A0%B4/</guid>
+      <description>相信大家不管是领取干货资料还是通过百度云发送文档给伙伴，都会碰到以下问题： 你打开的文件已失效； 啊哦，你来晚了，分享的文件已经被取消了，下次要</description>
+    </item>
+    
+    <item>
+      <title>如何用ｐｓ制作海报中的水波纹倒影的效果</title>
+      <link>https://witeaa.tk/news/28/</link>
+      <pubDate>Wed, 07 Feb 2018 19:06:24 +0800</pubDate>
+      
+      <guid>https://witeaa.tk/news/28/</guid>
+      <description>分两层看待：第一层是物体的倒影，第二层是水波的反光。 第一层比较简单，将毛笔垂直反转，挪到下方，使用滤镜—扭曲—波浪。参数自己视情况调整。 海报</description>
+    </item>
+    
+    <item>
+      <title>最蠢密码排行榜 看看你的密码在不在上面</title>
+      <link>https://witeaa.tk/news/%E6%9C%80%E8%A0%A2%E5%AF%86%E7%A0%81%E6%8E%92%E8%A1%8C%E6%A6%9C-%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81%E5%9C%A8%E4%B8%8D%E5%9C%A8%E4%B8%8A%E9%9D%A2/</link>
+      <pubDate>Tue, 06 Feb 2018 10:38:24 +0800</pubDate>
+      
+      <guid>https://witeaa.tk/news/%E6%9C%80%E8%A0%A2%E5%AF%86%E7%A0%81%E6%8E%92%E8%A1%8C%E6%A6%9C-%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81%E5%9C%A8%E4%B8%8D%E5%9C%A8%E4%B8%8A%E9%9D%A2/</guid>
+      <description>很多人为了省事、好记，会把密码设置的非常简单，甚至有些心大的人更是把所有平台账号密码都设置成一样的， 但是殊不知，那些安全性低的密码，可轻松被</description>
+    </item>
+    
+  </channel>
+</rss>

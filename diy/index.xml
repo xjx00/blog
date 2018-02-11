@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ideas on WIT电子爱好者协会</title>
+    <link>https://witeaa.tk/diy/</link>
+    <description>Recent content in Ideas on WIT电子爱好者协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Wed, 24 Jan 2018 23:11:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://witeaa.tk/diy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>安装Keil C51</title>
+      <link>https://witeaa.tk/diy/111/</link>
+      <pubDate>Wed, 24 Jan 2018 23:11:24 +0000</pubDate>
+      
+      <guid>https://witeaa.tk/diy/111/</guid>
+      <description>首先需要到下载页面获取KeilC51 将下载好的压缩包解压 运行安装程序 安装完毕后 右键-&amp;gt;以管理员身份运行 4.打开许可管理 5.将红色框的内</description>
+    </item>
+    
+  </channel>
+</rss>
