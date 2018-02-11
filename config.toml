@@ -41,12 +41,12 @@ hasCJKLanguage = true
   
 [params]
   description = "WIT Electronic Amateur Association"
-  cover = "http://witeaa-1252834524.file.myqcloud.com/images/newyear.jpg"
+  cover = "witeaa-1252834524.file.myqcloud.com/images/newyear.jpg"
   author = "witeaaer"
   authorlocation = ""
   authorwebsite = "http://www.witeaa.tk/"
   bio= "my bio"
-  logo = "http://witeaa-1252834524.file.myqcloud.com/images/logobig.png"
+  logo = "witeaa-1252834524.file.myqcloud.com/images/logobig.png"
   #googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = ""
