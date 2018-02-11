@@ -149,7 +149,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 @font-face {
   font-family: '微软雅黑';
-  src: local('微软雅黑'), local('微软雅黑'), url('http://witeaa-1252834524.file.myqcloud.com/msyh.ttf') format('truetype');
+  src: local('微软雅黑'), local('微软雅黑'), url('witeaa-1252834524.file.myqcloud.com/msyh.ttf') format('truetype');
   font-weight: normal; font-style: normal;
 }
 
